@@ -126,5 +126,5 @@ The Student Management System provides an efficient and reliable method for mana
 
 ![Image](https://github.com/user-attachments/assets/2d1adc56-44ac-42dd-8e0c-f98af17f42cf)
 
-
+![Image](https://github.com/user-attachments/assets/9268591d-3bb9-42a6-9a38-1a320850d43c)
 
